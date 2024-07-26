@@ -1,8 +1,5 @@
 # 🛡️ ChatGenie - Advanced Document Processing & Chat Application
 
-[![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/downloads/)
-[![React Version](https://img.shields.io/badge/react-18.0%2B-61DAFB)](https://reactjs.org/)
-
 ## 🚀 Overview
 
 ChatGenie is an advanced document processing and chat application that leverages state-of-the-art NLP techniques and Retrieval-Augmented Generation (RAG) to provide insightful and contextually relevant responses to user queries. It's your AI-powered sidekick for conquering information overload!
