@@ -41,7 +41,7 @@ ChatGenie is an advanced document processing and chat application that leverages
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/GinnasKJSCE/Crusaders.git
+   git clone https://github.com/Chirag30Sharma/ChatGenie.git
    ```
 
 2. Navigate to the backend directory:
