@@ -166,7 +166,7 @@ def generate_graph(response):
 
 @app.route('/')
 def index():
-    return jsonify("Hello World")
+    return jsonify("Helloooo World")
 
 generation_config = {
   "temperature": 1,
